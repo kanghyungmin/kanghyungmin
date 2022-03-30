@@ -1,8 +1,8 @@
-<h2> 🍊Hi there! </h2>
+<h2> 🍊안녕하세요.!!</h2>
 
 <span> 💌 Contact : hmkkang0922@daum.net </span> <br>
-<span> 🔎 XX 강형민입니다.  </span> <br>
-<span> 🥕 좋아해요 </span>
+<span> 🔎 개발과 관련된 다양한 부분에 많은 관심을 가지고 있으며 도전하는 것을 좋아합니다.  </span> <br>
+<span> 🥕 더 자세한 사항에 대해서는 Resume를 참조해주세요. ➡️ Resume Link </span>
 
 <a href="https://www.instagram.com/dding_ji_k/">
     <img 

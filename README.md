@@ -1,17 +1,31 @@
-<h2> 🍊안녕하세요.!!</h2>
+## Hello, welcome to my GitHub! <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" width="25px">
 
-<span> 💌 Contact : hmkkang0922@daum.net </span> <br>
-<span> 🔎 개발과 관련된 다양한 부분에 많은 관심을 가지고 있으며 도전하는 것을 좋아합니다.  </span> <br>
-<span> 🥕 더 자세한 사항에 대해서는 Resume를 참조해주세요. ➡️ Resume Link </span>
+<a href="https://medium.com/@zluvsand">
+    <img src="https://img.shields.io/badge/MEDIUM-12100E?logo=medium&color=fe6e95&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/zluvsand/">
+    <img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=282A36&logoColor=white" />
+</a>
+<a href="https://zluvsand.github.io/">
+    <img src="https://img.shields.io/badge/WEBSITE-12100E?logo=html5&color=fe6e95&logoColor=white" />
+</a>
+<a href="https://open.spotify.com/playlist/7KmIUNWrK8wEHfQcQfFrQ1?si=0e2d44043b5a40a4">
+    <img src="https://img.shields.io/badge/SPOTIFY-12100E?logo=spotify&color=282A36&logoColor=white" />
+</a>
 
 
-![kanghyungmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanghyungmin&show_icons=true&theme=material-palenight)
-</center>  
+### 📈 GitHub stats
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=kanghyungmin&theme=dracula"/></p>
 
+</div>
+
+### 
 - [ ] 자격증
 - [ ] 기술 스택 정의하기 
 - [ ] 이력서 작성하기
 
-<center>
+<div align=center style="width:500px;">
+  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkanghyungmin%2Fkanghyungmin&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-</center>
+  
+</div>

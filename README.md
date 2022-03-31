@@ -13,6 +13,9 @@
     <img src="https://img.shields.io/badge/SPOTIFY-12100E?logo=spotify&color=282A36&logoColor=white" />
 </a>
 
+### 📚 Certification 
+- Amazon AWS Certificated Soulutions Architect - Associate, 
+
 
 ### 📈 GitHub stats
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=kanghyungmin&theme=dracula"/></p>

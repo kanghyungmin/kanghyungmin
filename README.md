@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=TechBlog&color=282A36&logoColor=white" />
 </a>
 <a href="https://zluvsand.github.io/">
-    <img src="https://img.shields.io/badge/WEBSITE-12100E?logo=html5&color=fe6e95&logoColor=white" />
+    <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
 </a>
 <a href="https://open.spotify.com/playlist/7KmIUNWrK8wEHfQcQfFrQ1?si=0e2d44043b5a40a4">
     <img src="https://img.shields.io/badge/SPOTIFY-12100E?logo=spotify&color=282A36&logoColor=white" />

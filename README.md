@@ -1,10 +1,10 @@
 ## Hello, welcome to my GitHub! <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" width="25px">
 
 <a href="https://medium.com/@zluvsand">
-    <img src="https://img.shields.io/badge/MEDIUM-12100E?logo=medium&color=fe6e95&logoColor=white" />
+    <img src="https://img.shields.io/badge/MEDIUM-12100E?logo=MAIL&color=fe6e95&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/zluvsand/">
-    <img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=linkedin&color=282A36&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=TechBlog&color=282A36&logoColor=white" />
 </a>
 <a href="https://zluvsand.github.io/">
     <img src="https://img.shields.io/badge/WEBSITE-12100E?logo=html5&color=fe6e95&logoColor=white" />
@@ -13,8 +13,6 @@
     <img src="https://img.shields.io/badge/SPOTIFY-12100E?logo=spotify&color=282A36&logoColor=white" />
 </a>
 
-### 📚 Certification 
-- Amazon AWS Certificated Soulutions Architect - Associate, 
 
 
 ### 📈 GitHub stats
@@ -22,8 +20,12 @@
 
 </div>
 
-### 
-- [ ] 자격증
+
+### 📚 Certification 
+- Amazon AWS Certificated Soulutions Architect - Associate, 
+
+### 💻 Tech. Stack
+
 - [ ] 기술 스택 정의하기 
 - [ ] 이력서 작성하기
 

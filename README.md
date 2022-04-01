@@ -22,7 +22,7 @@
 - Amazon AWS Certificated Soulutions Architect - Associate, 
 
 ### 💻 Tech. Stack
-
+- [ ] Repository 정리하기
 - [ ] 기술 스택 정의하기 
 - [ ] 이력서 작성하기
 

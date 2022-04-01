@@ -1,20 +1,15 @@
 ## Hello, welcome to my GitHub! <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" width="25px">
 
-<a href="https://medium.com/@zluvsand">
-    <img src="https://img.shields.io/badge/MEDIUM-12100E?logo=MAIL&color=fe6e95&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/zluvsand/">
-    <img src="https://img.shields.io/badge/LINKEDIN-12100E?logo=TechBlog&color=282A36&logoColor=white" />
+<a href="https://zluvsand.github.io/">
+    <img src="https://img.shields.io/badge/Mail-006400?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
 <a href="https://zluvsand.github.io/">
     <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
 </a>
-<a href="https://open.spotify.com/playlist/7KmIUNWrK8wEHfQcQfFrQ1?si=0e2d44043b5a40a4">
-    <img src="https://img.shields.io/badge/SPOTIFY-12100E?logo=spotify&color=282A36&logoColor=white" />
+<a href="https://zluvsand.github.io/">
+    <img src="https://img.shields.io/badge/Resume-3776AB?style=for-the-badge&logo=Storybook&logoColor=white" />
 </a>
-1) mail 
-2) blogger
-3) Resume
+
 
 
 ### 📈 GitHub stats

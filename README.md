@@ -12,7 +12,9 @@
 <a href="https://open.spotify.com/playlist/7KmIUNWrK8wEHfQcQfFrQ1?si=0e2d44043b5a40a4">
     <img src="https://img.shields.io/badge/SPOTIFY-12100E?logo=spotify&color=282A36&logoColor=white" />
 </a>
-
+1) mail 
+2) blogger
+3) Resume
 
 
 ### 📈 GitHub stats

@@ -1,6 +1,6 @@
 ## Hello, welcome to my GitHub! <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" width="25px">
 
-<a href="https://zluvsand.github.io/">
+<a href="mailto:hmkkang0922@daum.net">
     <img src="https://img.shields.io/badge/Mail-006400?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
 <a href="https://zluvsand.github.io/">

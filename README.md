@@ -20,18 +20,18 @@
 - Certified Kubernetes Application Developer, CKAD(*Preparing*)
 
 ### 💻 Tech. Stack & Level
-  📒 Language  
-      &nbsp;  &nbsp; C/C++ , Python , Typescript , PLC  
-  📕 WAS   
-      &nbsp;  &nbsp; Flask , NodeJS , NestJS   
-  📗 Database  
-      &nbsp;  &nbsp; Postgres , TimescaleDB , MongoDB  
-  📙 In-Memory DB  
-      &nbsp;  &nbsp; Redis(Celery의 비동기 Queue로만 사용)  
-  📘 Devops  
-      &nbsp;  &nbsp; Github, Git actions, Docker Swarm  
-  📔 Cloud  
-      &nbsp;  &nbsp; AWS  
+  &nbsp;  &nbsp;📒 Language  
+&nbsp;  &nbsp;  &nbsp;  &nbsp; C/C++ , Python , Typescript , PLC  
+  &nbsp;  &nbsp;📕 WAS   
+&nbsp;  &nbsp;  &nbsp;  &nbsp; Flask , NodeJS , NestJS   
+  &nbsp;  &nbsp;📗 Database  
+&nbsp;  &nbsp;  &nbsp;  &nbsp; Postgres , TimescaleDB , MongoDB  
+  &nbsp;  &nbsp;📙 In-Memory DB  
+&nbsp;  &nbsp;  &nbsp;  &nbsp; Redis(Celery의 비동기 Queue로만 사용)  
+  &nbsp;  &nbsp;📘 Devops  
+&nbsp;  &nbsp;  &nbsp;  &nbsp;  Github, Git actions, Docker Swarm  
+  &nbsp;  &nbsp;📔 Cloud  
+&nbsp;  &nbsp;  &nbsp;  &nbsp; AWS  
   
 <div align=center style="width:500px;">
   

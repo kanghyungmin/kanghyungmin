@@ -17,6 +17,8 @@
 
 ### 📚 Certification 
 - Amazon AWS Certificated Soulutions Architect - Associate, 
+- Certified Kubernetes Application Developer, CKAD(준비 중)
+- 
 
 ### 💻 Tech. Stack
 - [ ] 이력서 작성하기

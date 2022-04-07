@@ -18,28 +18,20 @@
 ### 📚 Certification 
 - Amazon AWS Certificated Soulutions Architect - Associate, 05/05/2021
 - Certified Kubernetes Application Developer, CKAD(*Preparing*)
-- 
 
 ### 💻 Tech. Stack & Level
   📒 Language  
-     1) C/C++  
-     2) Python  
-     3) Typescript  
-     4) PLC  
+      &nbsp;  &nbsp; C/C++ , Python , Typescript , PLC  
   📕 WAS   
-     1) Flask  
-     2) NodeJS  
-     3) NESTJS  
+      &nbsp;  &nbsp; Flask , NodeJS , NestJS   
   📗 Database  
-     1) Postgres
-     2) TimescaleDB, MongoDB  
+      &nbsp;  &nbsp; Postgres , TimescaleDB , MongoDB  
   📙 In-Memory DB  
-     Redis
-  📘 Devops
-  📓 Machine Learning
-  📔 Cloud
-  📖 etc
-     celery 
+      &nbsp;  &nbsp; Redis(Celery의 비동기 Queue로만 사용)  
+  📘 Devops  
+      &nbsp;  &nbsp; Github, Git actions, Docker Swarm  
+  📔 Cloud  
+      &nbsp;  &nbsp; AWS  
   
 <div align=center style="width:500px;">
   

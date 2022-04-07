@@ -17,12 +17,30 @@
 
 ### 📚 Certification 
 - Amazon AWS Certificated Soulutions Architect - Associate, 05/05/2021
-- Certified Kubernetes Application Developer, CKAD(준비 중)
+- Certified Kubernetes Application Developer, CKAD(*Preparing*)
 - 
 
-### 💻 Tech. Stack
-- [ ] 이력서 작성하기
-
+### 💻 Tech. Stack & Level
+  📒 Language  
+     1) C/C++  
+     2) Python  
+     3) Typescript  
+     4) PLC  
+  📕 WAS   
+     1) Flask  
+     2) NodeJS  
+     3) NESTJS  
+  📗 Database  
+     1) Postgres
+     2) TimescaleDB, MongoDB  
+  📙 In-Memory DB  
+     Redis
+  📘 Devops
+  📓 Machine Learning
+  📔 Cloud
+  📖 etc
+     celery 
+  
 <div align=center style="width:500px;">
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkanghyungmin%2Fkanghyungmin&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)

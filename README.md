@@ -4,9 +4,6 @@
     <img src="https://img.shields.io/badge/Mail-006400?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
 <a href="https://zluvsand.github.io/">
-    <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
-</a>
-<a href="https://zluvsand.github.io/">
     <img src="https://img.shields.io/badge/Resume-3776AB?style=for-the-badge&logo=Storybook&logoColor=white" />
 </a>
 

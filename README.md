@@ -16,7 +16,7 @@
 
 
 ### 📚 Certification 
-- Amazon AWS Certificated Soulutions Architect - Associate, 05/05/2021
+- Amazon AWS Certificated Soulutions Architect - Associate, 05/05/2022
 - Certified Kubernetes Application Developer, CKAD(*Preparing*)
 
 ### 💻 Tech. Stack & Level

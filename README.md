@@ -29,7 +29,7 @@
   &nbsp;  &nbsp;📗 Database  
 &nbsp;  &nbsp;  &nbsp;  &nbsp; Postgres , TimescaleDB , MongoDB  
   &nbsp;  &nbsp;📙 In-Memory DB  
-&nbsp;  &nbsp;  &nbsp;  &nbsp; Redis(Asynchronous Queue/In-memory Cache/Broker로 사용)
+&nbsp;  &nbsp;  &nbsp;  &nbsp; Redis(Asynchronous Queue/In-memory Cache/Broker로 사용)  
   &nbsp;  &nbsp;📘 Devops  
 &nbsp;  &nbsp;  &nbsp;  &nbsp;  Github, Git actions, Docker Swarm  
   &nbsp;  &nbsp;📔 Cloud  

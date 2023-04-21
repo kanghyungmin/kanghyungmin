@@ -7,6 +7,11 @@
     <img src="https://img.shields.io/badge/Resume-3776AB?style=for-the-badge&logo=Storybook&logoColor=white" />
 </a>
 
+홈페이지 구축
+mastering node.js
+refactoring javascript
+next.js
+
 
 
 ### 📈 GitHub stats

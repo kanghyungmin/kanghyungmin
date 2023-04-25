@@ -11,7 +11,6 @@
 2) next.js
 3) Node.js 디자인 패턴 바이블, mastering node.js, refactoring javascript
 PER, debounce, multikeys
-instance of vs typeof , prototype
 distributed locks
 
 

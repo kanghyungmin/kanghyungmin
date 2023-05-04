@@ -9,8 +9,8 @@
 
 1) 홈페이지 구축
 2) next.js
-3) Node.js 디자인 패턴 바이블, mastering node.js, refactoring javascript
-PER, debounce, multikeys
+3) Node.js 디자인 패턴 바이블, ~~mastering node.js~~, refactoring javascript
+~~PER~~, ~~debounce~~, ~~multikeys~~, ~~yarn berry~~,
 distributed locks
 
 

@@ -7,9 +7,10 @@
     <img src="https://img.shields.io/badge/Resume-3776AB?style=for-the-badge&logo=Storybook&logoColor=white" />
 </a>
 
-1) ~~홈페이지 구축~~
+1) 홈페이지 구축
 2) next.js
-3) Node.js 디자인 패턴 바이블, ~~mastering node.js~~, refactoring javascript(with study)
+3) 모던 자바스크립트 Deep Dive
+4) Node.js 디자인 패턴 바이블, ~~mastering node.js~~, refactoring javascript(with study)
 ~~PER~~, ~~debounce~~, ~~multikeys~~, ~~yarn berry~~, github scrum 프로겟스 구축
 distributed locks
 

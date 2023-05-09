@@ -8,12 +8,22 @@
 </a>
 
 1) 홈페이지 구축
-2) next.js
-3) 모던 자바스크립트 Deep Dive
-4) Node.js 디자인 패턴 바이블, ~~mastering node.js~~, refactoring javascript(with study)
+4) Node.js 디자인 패턴 바이블, refactoring javascript(with study)
 ~~PER~~, ~~debounce~~, ~~multikeys~~, ~~yarn berry~~, github scrum 프로겟스 구축
 distributed locks
 
+
+## 2023년
+- ~~mastering node.js~~
+- ~~Node.js 백엔드 개발자 되기~~
+- 실전에서 바로 쓰는 Next.js
+- Node.js 디자인 패턴 바이블
+- 모던 자바스크립트 Deep Dive
+- 퀀트의 정석
+- 처음 만나는 금융 공학
+- 퀀트의 세계
+- 실전 퀀트투자
+- 처음 만나는 행동경제학
 
 
 

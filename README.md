@@ -8,9 +8,9 @@
 </a>
 
 1) 홈페이지 구축
-2) github scrum 프로세스 구축
-3) PER, Debounce, multikeys 자료 작성
-4) distributed locks 내용 정리
+2) PER, Debounce, multikeys 자료 작성
+3) distributed locks 내용 정리
+4) github scrum 프로세스 구축
 
 
 ## 2023년

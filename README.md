@@ -11,6 +11,7 @@
 2) PER, Debounce, multikeys 자료 작성
 3) distributed locks 내용 정리
 4) github scrum 프로세스 구축
+5) linkedin profile 작성
 
 
 ## 2023년

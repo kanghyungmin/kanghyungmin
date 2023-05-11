@@ -8,17 +8,18 @@
 </a>
 
 1) 홈페이지 구축
-4) Node.js 디자인 패턴 바이블, refactoring javascript(with study)
-~~PER~~, ~~debounce~~, ~~multikeys~~, ~~yarn berry~~, github scrum 프로겟스 구축
-distributed locks
+2) github scrum 프로세스 구축
+3) PER, Debounce, multikeys 자료 작성
+4) distributed locks 내용 정리
 
 
 ## 2023년
 - ~~mastering node.js~~
 - ~~Node.js 백엔드 개발자 되기~~
-- 실전에서 바로 쓰는 Next.js
+- ~~실전에서 바로 쓰는 Next.js~~
 - Node.js 디자인 패턴 바이블
 - 모던 자바스크립트 Deep Dive
+- refactoring javascript(with study)
 - 퀀트의 정석
 - 처음 만나는 금융 공학
 - 퀀트의 세계

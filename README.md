@@ -16,7 +16,7 @@
 - ~~mastering node.js~~
 - ~~Node.js 백엔드 개발자 되기~~
 - ~~실전에서 바로 쓰는 Next.js~~
-- Node.js 디자인 패턴 바이블 6/1일까지 목표
+- (~ing)Node.js 디자인 패턴 바이블 6/1일까지 목표
 - 모던 자바스크립트 Deep Dive
 - Distributed-lock vs Spin-lock
 - refactoring javascript(with 팀)

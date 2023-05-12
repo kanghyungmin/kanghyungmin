@@ -9,10 +9,9 @@
 
 1) 홈페이지 구축
 2) PER, Debounce, multikeys 자료 작성
-3) distributed locks 내용 정리
-4) Cache Decorator 
-5) linkedin profile 작성
-6) github scrum 프로세스 구축
+3) Cache Decorator 
+4) linkedin profile 작성
+5) github scrum 프로세스 구축
 
 
 ## 2023년

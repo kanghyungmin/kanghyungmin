@@ -7,10 +7,8 @@
     <img src="https://img.shields.io/badge/Resume-3776AB?style=for-the-badge&logo=Storybook&logoColor=white" />
 </a>
 
-1) 홈페이지 구축
-2) PER, Debounce, multikeys 자료 작성
-3) Cache Decorator 
-4) linkedin profile 작성
+1) 홈페이지 구축(CI/CD, 자료 작성 : PER, Debounce, multikeys 자료 작성, Cache Decorator )
+2) linkedin profile 작성
 5) github scrum 프로세스 구축
 
 

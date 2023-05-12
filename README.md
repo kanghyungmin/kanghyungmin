@@ -40,7 +40,7 @@
 
 ### 📚 Certification 
 - Amazon AWS Certificated Soulutions Architect - Associate, (*Accuired : 11/15/2022*)
-- Amazon AWS Certificated SysOps Administrator - Associate, (*Preparing*)
+- Amazon AWS Certificated SysOps Administrator - Associate, (*Accuired : 12/24/2022*)
 - Amazon AWS Certificated Devops Engineer - Professional, (*Preparing*)
 - Certified Kubernetes Application Developer, CKAD(*Preparing*)
 

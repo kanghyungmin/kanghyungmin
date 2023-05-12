@@ -18,7 +18,7 @@
 - ~~실전에서 바로 쓰는 Next.js~~
 - (~ing)Node.js 디자인 패턴 바이블 6/1일까지 목표
 - 모던 자바스크립트 Deep Dive
-- Distributed-lock vs Spin-lock
+- Distributed-lock vs Spin-lock, MSA 관점에서는 보는 방법. Cpu-bound 일을 많이 해서 Call-stack에서 데이터를 못 가져온다는 식으로 작성
 - refactoring javascript(with 팀)
 - 퀀트의 정석
 - 처음 만나는 금융 공학

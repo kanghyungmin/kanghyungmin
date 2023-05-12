@@ -20,6 +20,7 @@
 - ~~실전에서 바로 쓰는 Next.js~~
 - Node.js 디자인 패턴 바이블 6/1일까지 목표
 - 모던 자바스크립트 Deep Dive
+- Distributed-lock vs Spin-lock
 - refactoring javascript(with 팀)
 - 퀀트의 정석
 - 처음 만나는 금융 공학

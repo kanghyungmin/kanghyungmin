@@ -21,10 +21,10 @@
 - Distributed-lock vs Spin-lock, MSA 관점에서는 보는 방법. Cpu-bound 일을 많이 해서 Call-stack에서 데이터를 못 가져온다는 식으로 작성
 - refactoring javascript(with 팀)
 - 퀀트의 정석
-- 처음 만나는 금융 공학
+- (~ing)처음 만나는 금융 공학
 - 퀀트의 세계
 - 실전 퀀트투자
-- 처음 만나는 행동경제학
+- (~ing)처음 만나는 행동경제학
 
 
 

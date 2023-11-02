@@ -8,8 +8,7 @@
 </a>
 
 ~~1) 홈페이지 구축(CI/CD, 자료 작성 : PER, Debounce, multikeys 자료 작성, Cache Decorator )~~
-2) linkedin profile 작성
-5) github scrum 프로세스 구축
+~~5) github scrum 프로세스 구축
 
 
 ## 2023년
@@ -25,10 +24,6 @@
 - 모던 자바스크립트 Deep Dive
 - Distributed-lock vs Spin-lock, MSA 관점에서는 보는 방법. Cpu-bound 일을 많이 해서 Call-stack에서 데이터를 못 가져온다는 식으로 작성
 - refactoring javascript(with 팀)
-- 퀀트의 정석
-- 퀀트의 세계
-- 실전 퀀트투자
-
 
 
 

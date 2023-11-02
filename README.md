@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/Mail-006400?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
 <a href="http://dev.hyungmin.com">
-    <img src="https://img.shields.io/badge/Resume-3776AB?style=for-the-badge&logo=Storybook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Blogger-3776AB?style=for-the-badge&logo=Storybook&logoColor=white" />
 </a>
 
 ~~1) 홈페이지 구축(CI/CD, 자료 작성 : PER, Debounce, multikeys 자료 작성, Cache Decorator )~~
@@ -21,7 +21,6 @@
 - ~~피터린치의 투자 이야기~~
 - ~~Node.js 디자인 패턴 바이블 6/1일까지 목표~~
 - AWS SA
-
 - 모던 자바스크립트 Deep Dive
 - Distributed-lock vs Spin-lock, MSA 관점에서는 보는 방법. Cpu-bound 일을 많이 해서 Call-stack에서 데이터를 못 가져온다는 식으로 작성
 - refactoring javascript(with 팀)

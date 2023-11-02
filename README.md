@@ -3,7 +3,7 @@
 <a href="mailto:hmkkang0922@daum.net">
     <img src="https://img.shields.io/badge/Mail-006400?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
-<a href="https://zluvsand.github.io/">
+<a href="http://dev.hyungmin.com">
     <img src="https://img.shields.io/badge/Resume-3776AB?style=for-the-badge&logo=Storybook&logoColor=white" />
 </a>
 

@@ -27,8 +27,9 @@
 ## 2023년
 - 클린 아키텍처
 - 헥사고날 아키텍처 설게와 구현
-- rust programming
+- rust programming(https://doc.rust-lang.org/std/collections/index.html)
 - react 2건(udemy)
+- UML 기초와 으용 
 
 
 

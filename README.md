@@ -20,16 +20,18 @@
 - ~~피터린치의 이기는 투자~~
 - ~~피터린치의 투자 이야기~~
 - ~~Node.js 디자인 패턴 바이블 6/1일까지 목표~~
+- ~~UML 기초와 응용~~
 - AWS SA
 - 모던 자바스크립트 Deep Dive
 - Distributed-lock vs Spin-lock, MSA 관점에서는 보는 방법. Cpu-bound 일을 많이 해서 Call-stack에서 데이터를 못 가져온다는 식으로 작성
 - refactoring javascript(with 팀)
 ## 2023년
-- 클린 아키텍처
+- ~~클린 아키텍처~~
+- ~~실전 스프링 부트~~
 - 헥사고날 아키텍처 설게와 구현
 - rust programming(https://doc.rust-lang.org/std/collections/index.html)
 - react 2건(udemy)
-- UML 기초와 응용
+
 
 
 ### 📈 GitHub stats

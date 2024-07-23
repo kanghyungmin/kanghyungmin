@@ -7,34 +7,6 @@
     <img src="https://img.shields.io/badge/Blogger-3776AB?style=for-the-badge&logo=Storybook&logoColor=white" />
 </a>
 
-~~1) 홈페이지 구축(CI/CD, 자료 작성 : PER, Debounce, multikeys 자료 작성, Cache Decorator )~~
-~~5) github scrum 프로세스 구축
-
-
-## 2023년
-- ~~mastering node.js~~
-- ~~Node.js 백엔드 개발자 되기~~
-- ~~실전에서 바로 쓰는 Next.js~~
-- ~~처음 만나는 금융 공학~~
-- ~~처음 만나는 행동경제학~~
-- ~~피터린치의 이기는 투자~~
-- ~~피터린치의 투자 이야기~~
-- ~~Node.js 디자인 패턴 바이블 6/1일까지 목표~~
-- ~~UML 기초와 응용~~
-- AWS SA
-- 모던 자바스크립트 Deep Dive
-- Distributed-lock vs Spin-lock, MSA 관점에서는 보는 방법. Cpu-bound 일을 많이 해서 Call-stack에서 데이터를 못 가져온다는 식으로 작성
-- refactoring javascript(with 팀)
-- go 언어 및 스몰프로젝트 
-## 2023년
-- ~~클린 아키텍처~~
-- ~~실전 스프링 부트~~
-- ~~헥사고날 아키텍처 설게와 구현~~
-
-
-
-
-
 ### 📈 GitHub stats
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=kanghyungmin&theme=dracula"/></p>
 

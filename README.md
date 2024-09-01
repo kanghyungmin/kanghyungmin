@@ -31,7 +31,7 @@
   
 
 ### 2024 Books
-- ~~Tucker의 Go 언어 프로그램ㅇ~~
+- ~~Tucker의 Go 언어 프로그램~~
 - ~~도메인 주도 설계 철저 입문~~
 - Learning Domain-Driven Design 
 - Domain-Driven Design with Golang

@@ -29,11 +29,6 @@
   &nbsp;  &nbsp;📔 Cloud  
 &nbsp;  &nbsp;  &nbsp;  &nbsp; AWS  
   
-<div align=center style="width:500px;">
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkanghyungmin%2Fkanghyungmin&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-</div>
 
 ### 2024 Books
 - ~~Tucker의 Go 언어 프로그램ㅇ~~
@@ -41,3 +36,10 @@
 - Learning Domain-Driven Design 
 - Domain-Driven Design with Golang
 - Kubernetest 관련 책 정리 및 자격증 따기
+
+<div align=center style="width:500px;">
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkanghyungmin%2Fkanghyungmin&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+</div>
+

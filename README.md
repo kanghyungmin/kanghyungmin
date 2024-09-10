@@ -33,10 +33,10 @@
 ### 2024 Books
 - ~~Tucker의 Go 언어 프로그램~~
 - ~~도메인 주도 설계 철저 입문~~
-- Mastering Elastic Kubernetes Service on AWS : Deploy and manage EKS clusters(~9월)
-- go lang data structure(~10월)
-- Learning Domain-Driven Design(~11월)
-- Domain-Driven Design with Golang(~12월)
+- Mastering Elastic Kubernetes Service on AWS : Deploy and manage EKS clusters(~10월, ~ing)
+- go lang data structure(~11월)
+- Learning Domain-Driven Design(~12월)
+- Domain-Driven Design with Golang(in 2025)
 
   
 

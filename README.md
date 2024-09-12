@@ -37,6 +37,7 @@
 - go lang data structure(~11월)
 - Learning Domain-Driven Design(~12월)
 - Domain-Driven Design with Golang(in 2025)
+- AWS Devops(2024) / CKS(2025) / AWS Securtity(2025) / GitSecOps(2025)
 
   
 

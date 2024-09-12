@@ -28,7 +28,7 @@
 &nbsp;  &nbsp;  &nbsp;  &nbsp;  Github, Git actions, Docker Swarm  
   &nbsp;  &nbsp;📔 Cloud  
 &nbsp;  &nbsp;  &nbsp;  &nbsp; AWS  
-  
+
 
 ### 2024 Books
 - ~~Tucker의 Go 언어 프로그램~~
@@ -37,7 +37,7 @@
 - go lang data structure(~11월)
 - Learning Domain-Driven Design(~12월)
 - Domain-Driven Design with Golang(in 2025)
-- AWS Devops(2024) / CKS(2025) / AWS Securtity(2025) / GitSecOps(2025)
+- CKD(2024) / CKA / CKS / GitSecOps(2025) / ARGO / Terraform 
 
   
 

@@ -3,9 +3,6 @@
 <a href="mailto:hmkkang0922@daum.net">
     <img src="https://img.shields.io/badge/Mail-006400?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
-<a href="http://dev.hyungmin.com">
-    <img src="https://img.shields.io/badge/Blogger-3776AB?style=for-the-badge&logo=Storybook&logoColor=white" />
-</a>
 
 ### 📈 GitHub stats
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=kanghyungmin&theme=dracula"/></p>

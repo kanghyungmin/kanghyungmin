@@ -34,7 +34,7 @@
 - go lang data structure(~11월)
 - Learning Domain-Driven Design(~12월)
 - Domain-Driven Design with Golang(in 2025)
-- CKD(2024) / CKA / CKS / GitSecOps(2025) / ARGO / Terraform 
+- CKD(2024) / CKA / CKS / GitSecOps(2025)
 
   
 

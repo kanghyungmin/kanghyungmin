@@ -34,7 +34,7 @@
 - go lang data structure(~11월, ~ing)
 - Learning Domain-Driven Design(~12월)
 - Domain-Driven Design with Golang(in 2025)
-- AWS Devops / AWS SA
+- AWS Devops / AWS SA / AWS Security
 
   
 

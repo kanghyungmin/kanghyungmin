@@ -35,6 +35,7 @@
 - Learning Domain-Driven Design(~12월)
 - Domain-Driven Design with Golang(in 2025)
 - AWS Devops / AWS SA / AWS Security(in 2025)
+- gRPC in go language
 
   
 

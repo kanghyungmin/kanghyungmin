@@ -27,15 +27,15 @@
 &nbsp;  &nbsp;  &nbsp;  &nbsp; AWS  
 
 
-### 2024 Books
+### 2024 Study
 - ~~Tucker의 Go 언어 프로그램~~
 - ~~도메인 주도 설계 철저 입문~~
-- Mastering Elastic Kubernetes Service on AWS : Deploy and manage EKS clusters(~10월, ~ing)
 - ~~go lang data structure~~
+- Mastering Elastic Kubernetes Service on AWS : Deploy and manage EKS clusters(~10월, ~ing)
 - Learning Domain-Driven Design(~12월)
 - Domain-Driven Design with Golang(in 2025)
 - AWS Devops / AWS SA / AWS Security(in 2025)
-- gRPC in go language
+- gRPC in golanguage
 
   
 

@@ -32,9 +32,10 @@
 - ~~도메인 주도 설계 철저 입문~~
 - ~~go lang data structure~~
 - ~~Learning Domain-Driven Design~~
-- Mastering Elastic Kubernetes Service on AWS : Deploy and manage EKS clusters(~10월, ~ing)
-2024년 목표
+- 이벤트 소싱과 마이크로서비스 아키텍처 
 
+2024년 목표
+- Mastering Elastic Kubernetes Service on AWS : Deploy and manage EKS clusters(~10월, ~ing)
 - Domain-Driven Design with Golang(in 2025)
 - AWS Devops / AWS SA / AWS Security(in 2025)
 - gRPC-in-Go-language

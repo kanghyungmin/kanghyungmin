@@ -37,7 +37,7 @@
 2024년 목표
 - Mastering Elastic Kubernetes Service on AWS : Deploy and manage EKS clusters(~10월, ~ing)
 - Domain-Driven Design with Golang(in 2025)
-- AWS Devops / AWS SA / AWS Security(in 2025)
+- AWS Devops / CKAD / Istio / gitOPS / AWS SA / AWS Security(in 2025)
 - gRPC-in-Go-language
 
   

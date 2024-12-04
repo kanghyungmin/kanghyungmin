@@ -32,12 +32,12 @@
 - ~~도메인 주도 설계 철저 입문~~
 - ~~go lang data structure~~
 - ~~Learning Domain-Driven Design~~
-- 이벤트 소싱과 마이크로서비스 아키텍처 
+- 이벤트 소싱과 마이크로서비스 아키텍처(~12월)
 
 2024년 목표
-- Mastering Elastic Kubernetes Service on AWS : Deploy and manage EKS clusters(~10월, ~ing)
+- Mastering Elastic Kubernetes Service on AWS : Deploy and manage EKS clusters(~ing)
 - Domain-Driven Design with Golang(in 2025)
-- AWS Devops / CKAD / Istio / gitOPS / AWS SA / AWS Security(in 2025)
+- AWS Devops(2) / CKAD(5) / Istio(8) / gitOPS(11), AWS SA / AWS Security(in 2025)
 - gRPC-in-Go-language
 
   

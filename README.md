@@ -31,8 +31,11 @@
 - ~~Tucker의 Go 언어 프로그램~~
 - ~~도메인 주도 설계 철저 입문~~
 - ~~go lang data structure~~
-- ~~Learning Domain-Driven Design~~
-- 이벤트 소싱과 마이크로서비스 아키텍처(~12월)
+- ~~Learning Domain-Driven Design~~  
+1) DDD 세레나데 
+2) nestjs-cqrs-saga-event-sourcing-domain-driven 파헤치기 : https://github.com/amehat/nestjs-cqrs-saga-event-sourcing-domain-driven 
+3) nestjs cqrs 패턴 파헤치기
+- 이벤트 소싱과 마이크로서비스 아키텍처(~12월) 
 
 2024년 목표
 - Mastering Elastic Kubernetes Service on AWS : Deploy and manage EKS clusters(~ing)

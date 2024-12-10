@@ -40,9 +40,9 @@
 
 
 2024년 목표
-- 이벤트 소싱과 마이크로서비스 아키텍처(~12월) 
+- 이벤트 소싱과 마이크로서비스 아키텍처(~ing, with nestjs) 
 - Mastering Elastic Kubernetes Service on AWS : Deploy and manage EKS clusters(~ing)
-- Domain-Driven Design with Golang(in 2025)
+- Domain-Driven Design with Golang / 이벤트 소싱과 마이크로서비스 아키텍처(with go)   
 - AWS Devops(2) / CKAD(5) / Istio(8) / gitOPS(11), AWS SA / AWS Security(in 2025)
 - gRPC-in-Go-language
 

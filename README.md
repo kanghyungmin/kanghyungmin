@@ -32,11 +32,6 @@
 - ~~도메인 주도 설계 철저 입문~~
 - ~~go lang data structure~~
 - ~~Learning Domain-Driven Design~~  
-1) DDD 세레나데
-2) https://github.com/nestjs/cqrs
-3) nestjs saga 패턴 파헤치기 https://kawther-asma.medium.com/implementing-saga-orchestration-with-nestjs-and-kafka-129dac1fca98 
-4) nestjs-cqrs-saga-event-sourcing-domain-driven 파헤치기 : https://github.com/amehat/nestjs-cqrs-saga-event-sourcing-domain-driven
-
 
 
 2024년 목표

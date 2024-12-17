@@ -26,7 +26,7 @@
   &nbsp;  &nbsp;📔 Cloud  
 &nbsp;  &nbsp;  &nbsp;  &nbsp; AWS  
 
-2024년 목표
+2025년 목표  
 - 이벤트 소싱과 마이크로서비스 아키텍처(~ing, with nestjs) 
 - Mastering Elastic Kubernetes Service on AWS : Deploy and manage EKS clusters(~ing)
 - Domain-Driven Design with Golang / 이벤트 소싱과 마이크로서비스 아키텍처(with go)   

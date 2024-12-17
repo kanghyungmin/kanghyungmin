@@ -26,14 +26,6 @@
   &nbsp;  &nbsp;📔 Cloud  
 &nbsp;  &nbsp;  &nbsp;  &nbsp; AWS  
 
-
-### 2024 Study
-- ~~Tucker의 Go 언어 프로그램~~
-- ~~도메인 주도 설계 철저 입문~~
-- ~~go lang data structure~~
-- ~~Learning Domain-Driven Design~~  
-
-
 2024년 목표
 - 이벤트 소싱과 마이크로서비스 아키텍처(~ing, with nestjs) 
 - Mastering Elastic Kubernetes Service on AWS : Deploy and manage EKS clusters(~ing)

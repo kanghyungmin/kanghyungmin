@@ -30,9 +30,7 @@
 - Mastering Elastic Kubernetes Service on AWS : Deploy and manage EKS clusters(~ing)
 - Domain-Driven Design with Golang / 이벤트 소싱과 마이크로서비스 아키텍처(with go)   
 - AWS Devops(2) / CKAD(5) / AWS SA / Istio(8) / gitOPS(11),  / AWS Security(in 2025)
-- gRPC-in-Go-language
-transactional outbox pattern // Transactional InBox   // semantic lock
-// distributed lock // opticmistic lock 
+- gRPC-in-Go-language  
 
   
 

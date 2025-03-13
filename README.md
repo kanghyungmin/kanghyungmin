@@ -27,7 +27,7 @@
 2025년 목표  
 - Mastering Elastic Kubernetes Service on AWS : Deploy and manage EKS clusters(~ing)
 - ~~Domain-Driven Design with Golang(Routing Slip Pattern, Process Manager Pattern, Optimistic Lock/Pessimistic Lock)~~
-- AWS Devops(2) / CKAD(5) / AWS SA / Istio(8) / gitOPS(11),  / AWS Security(in 2025)
+- CKD(3) / AWS DB(6) / Istio(9) / AWS SA(12) / AWS Security(in 2025)
 - gRPC-in-Go-language  
 
   
